@@ -123,5 +123,4 @@ Present Address:-<b> C-F1,Happy homes,S.k Avenue,<br/>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="I:/Bootstrap/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
-</body>
 </html>
